@@ -1,4 +1,4 @@
-token = "1069826457:AAEQ0Vnf8au4u_h99iy7Tz3yTByKVK-bY3E"
+token = "<your_token>"
 
 #    'group': {
 #        'week': {
